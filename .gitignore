@@ -1,0 +1,4 @@
+aut/
+.idea
+# Project exclude paths
+/out/
