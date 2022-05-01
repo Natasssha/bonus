@@ -5,7 +5,7 @@ public class Main {
         int payment = 1100;
         int bonus;
 
-        if (payment = 1000) {
+        if (payment > 1000) {
             bonus = payment / 100;
         } else {
             bonus = 0;
